@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://demoqa.com/login",
+  "username": "TestSite",
+  "password": "Demoq@123",
+  "wrongUserName": "Test",
+  "wrongPassword": "Demoq@",
+  "urlText": "/login",
+  "loginHeaderText": "Login",
+  "ProfileHeaderText": "Profile",
+  "profileUrl": "/profile",
+  "errorMessage": "Invalid username or password!",
+  "urlBooksText": "/books",
+  "BooksHeaderText": "Book Store"
+}
