@@ -1,4 +1,4 @@
-# Get Started With DemoQA Site.
+# Get Started With ToolsQA Site.
 
 End-to-end tests for ToolSQA Login Functions and Add to collection flow,
 
@@ -25,4 +25,5 @@ End-to-end tests for ToolSQA Login Functions and Add to collection flow,
 5- In order to execute all tests, run command
 
 For Login FLow: npx cypress run --spec "cypress/integration/tests/loginPageTests.js"
+
 For AddToCollection FLow: npx cypress run --spec "cypress/integration/tests/goToStoreTests.js"
